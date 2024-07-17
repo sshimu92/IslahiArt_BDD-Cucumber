@@ -1,0 +1,58 @@
+2024-07-03 20:18:55.578 [main] ERROR step_definations.Register_Page.RegisterWithValidCredential - element click intercepted: Element is not clickable at point (430, 678)
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [de0f39fbfc7980d9247f3bfedba98102, clickElement {id=f.BB3D9718415AD6B2E12D08AC81186923.d.38BF054D1CCC672EC4F1397372C81841.e.239}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62616}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62616/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (de0f39fbfc7980d9247f3bfedba98102)] -> xpath: (//input[@name='xoo_el_reg_terms'])[1]]
+Session ID: de0f39fbfc7980d9247f3bfedba98102
+2024-07-03 20:49:51.734 [main] ERROR step_definations.Register_Page.RegisterWithValidCredential - element click intercepted: Element is not clickable at point (430, 678)
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [05993af249566ecf5779a50879db8de7, clickElement {id=f.E6215A719D82E3E14309FBF3CC82D1D6.d.5B01FCF3CD9AC47B53DC6F659F9C046A.e.239}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63820}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63820/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (05993af249566ecf5779a50879db8de7)] -> xpath: (//input[@name='xoo_el_reg_terms'])[1]]
+Session ID: 05993af249566ecf5779a50879db8de7
+2024-07-08 17:09:13.573 [main] ERROR step_definations.Register_Page.RegisterWithValidCredential - element click intercepted: Element is not clickable at point (430, 678)
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cef58ad152987c6605da865df1e93720, clickElement {id=f.BE4AAB5178FBAE094DDC3790D4E7EBD7.d.3062A751F5894D29E294628EAC83F29E.e.223}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51873}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51873/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (cef58ad152987c6605da865df1e93720)] -> xpath: (//input[@value='yes'])[1]]
+Session ID: cef58ad152987c6605da865df1e93720
+2024-07-08 19:50:22.203 [main] ERROR step_definations.Register_Page.RegisterWithValidCredential - element click intercepted: Element is not clickable at point (430, 678)
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9b30f20f8e9b21f14e6b3ba8eedfeb7e, clickElement {id=f.DF6AA3CF9D49F12B874AD78087EF9A13.d.1D871E927D8A30991F6A9EF31C7413F2.e.232}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55795}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55795/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9b30f20f8e9b21f14e6b3ba8eedfeb7e)] -> xpath: (//input[@name='xoo_el_reg_terms'])[1]]
+Session ID: 9b30f20f8e9b21f14e6b3ba8eedfeb7e
+2024-07-08 19:51:49.418 [main] ERROR step_definations.Register_Page.RegisterWithValidCredential - element click intercepted: Element is not clickable at point (430, 678)
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aba13de159abe69759f60222275df11b, clickElement {id=f.657E134E7D54C8C00800D8139D0FD2FB.d.0390C51AB148437BDF3AA05E3545D76E.e.226}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55857}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55857/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (aba13de159abe69759f60222275df11b)] -> xpath: (//input[@name='xoo_el_reg_terms'])[1]]
+Session ID: aba13de159abe69759f60222275df11b
+2024-07-08 19:53:51.443 [main] ERROR step_definations.Register_Page.RegisterWithValidCredential - element click intercepted: Element is not clickable at point (430, 678)
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8097ca32ddccdd302535ae7a2ec0b98, clickElement {id=f.734CB91131C47D9955385F6F583CBAC1.d.46494359A51D518D21FC2E3B84C3417A.e.240}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55951}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55951/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f8097ca32ddccdd302535ae7a2ec0b98)] -> xpath: (//input[@value='yes'])[1]]
+Session ID: f8097ca32ddccdd302535ae7a2ec0b98
+2024-07-10 17:17:14.584 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
+2024-07-10 19:13:41.353 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
+2024-07-10 19:23:15.652 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
+2024-07-10 20:11:11.517 [main] ERROR pageObjectModel.ShoppingCartPage - Cannot invoke "pageObjectModel.ShoppingCartPage.enterUsernameAndPassword(String, String)" because "this.sc" is null
