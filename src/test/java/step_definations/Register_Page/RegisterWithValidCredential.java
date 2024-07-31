@@ -2,18 +2,14 @@ package step_definations.Register_Page;
 
 import static org.testng.Assert.assertEquals;
 
-import java.time.Duration;
-
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import jdk.internal.org.jline.utils.Log;
+
 import pageObjectModel.RegisterPage;
 import step_definations.Hooks;
 
