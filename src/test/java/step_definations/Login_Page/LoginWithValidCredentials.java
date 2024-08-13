@@ -7,6 +7,7 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.Test;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
@@ -20,6 +21,7 @@ public class LoginWithValidCredentials {
 	private LoginPage lp = new LoginPage(driver);
 	private final Logger logger = LogManager.getLogger(LoginWithValidCredentials.class);
 	private WebDriverWait wait;
+	
 	
 	@And("user click on Login")
 	public void clickOnLoginButton() {

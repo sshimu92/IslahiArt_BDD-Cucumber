@@ -23,6 +23,7 @@ public class RegisterWithValidCredential {
 	private Logger logger = LogManager.getLogger(RegisterWithValidCredential.class);
 	private WebDriverWait wait;
 	
+	
 	@Given("user already open the website islahiart")
 	public void verifyRegisterPage() {
 	

@@ -56,3 +56,9 @@ Session ID: f8097ca32ddccdd302535ae7a2ec0b98
 2024-07-10 19:13:41.353 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
 2024-07-10 19:23:15.652 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
 2024-07-10 20:11:11.517 [main] ERROR pageObjectModel.ShoppingCartPage - Cannot invoke "pageObjectModel.ShoppingCartPage.enterUsernameAndPassword(String, String)" because "this.sc" is null
+2024-08-06 20:26:28.046 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
+2024-08-06 20:36:11.879 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
+2024-08-12 15:40:57.590 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
+2024-08-12 15:47:51.997 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
+2024-08-12 16:14:48.761 [TestNG-PoolService-0] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
+2024-08-12 16:17:02.402 [main] INFO  step_definations.Login_Page.LoginWithValidCredentials - Hello shawon.shimu (not shawon.shimu? Log out)
